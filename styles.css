@@ -1,0 +1,81 @@
+body {
+    background: #a2c4a3 url(http://www.csszengarden.com/079/flower_bg.jpg) ;
+    display: block;
+    margin: 0;
+    background-repeat: repeat-x;
+    
+}
+
+.wrapper {
+
+}
+
+header {
+    padding-top: 33.8px;
+}
+
+.logo {
+    margin-left: 9px;
+}
+
+.banner-text {
+    padding-top: 12.9px;
+}
+
+.left-column{
+    float: left;
+    width: 222px;
+    height: 298px;
+    margin-left: 16px;
+}
+
+.right-column {
+    float: right;
+    width: 63%;
+    height: 297px;
+    overflow: auto;
+    align-content: left;
+    margin-right: 293px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
+p {
+    font-size: 77%;
+}
+
+h3 {
+    font-size: 98%;
+    font-style: italic;
+    color: rgb(119, 14, 14);
+    border-bottom: 1px solid #a2c4a3;
+}
+
+.right-footer {
+    width: 63%;
+    float: right;
+    margin-bottom: 92px;
+    margin-right: 293px;
+
+}
+
+.left-footer {
+    float: left;
+    text-align: center;
+    margin-left: 129px;
+    margin-top: 70px;
+
+}
+
+#darker-border {
+    border-bottom: 1px solid #82B084;
+}
+
+a {
+    color: #060;
+}
+
+
